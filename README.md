@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Erik.</h1>
 
-- I am a CS student at Simon Fraser University.
+- I'm a CS student at Simon Fraser University.
 
 - This is my **personal** account you can find my **school** account [here](https://github.com/eriks-23).
 
