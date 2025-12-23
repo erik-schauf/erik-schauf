@@ -3,10 +3,10 @@
 - I'm a CS student at Simon Fraser University.
 
 - This is my **personal** account you can find my **school** account [here](https://github.com/eriks-23).
-
+<!--
 - **Languages and tools I am familiar with:**
 <p align="center">
-  <!-- existing icons -->
+  <!-- existing icons 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -32,13 +32,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 
-  <!-- RISC‑V Assembly -->
+  <!-- RISC‑V Assembly 
   <a href="https://riscv.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RISC-V-logo-square.svg/2560px-RISC-V-logo-square.svg.png" alt="riscv" width="40" height="40"/>
   </a>
 
-  <!-- Godot Engine -->
+  <!-- Godot Engine 
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="godot" width="40" height="40"/>
   </a>
-</p>
+</p> -->
